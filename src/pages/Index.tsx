@@ -60,7 +60,7 @@ const HomePage = () => {
             </FadeIn>
 
             {/* Name */}
-            <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-medium text-foreground mb-6">
+            <h1 className="font-serif px-10 text-5xl md:text-7xl lg:text-8xl font-medium text-foreground mb-6">
               <AnimatedLetters text={profileData.name} delay={0.4} />
             </h1>
 

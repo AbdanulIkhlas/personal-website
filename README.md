@@ -1,2 +1,1 @@
-# personal-website
-Klaz Personal Website
+# Welcome to my personal website

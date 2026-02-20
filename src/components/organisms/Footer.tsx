@@ -76,7 +76,7 @@ export const Footer = () => {
             © {currentYear} {siteConfig.name}. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Built with care in San Francisco
+            Built with care in Yogyakarta
           </p>
         </div>
       </div>

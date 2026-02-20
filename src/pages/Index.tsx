@@ -37,7 +37,7 @@ const HomePage = () => {
         {/* Hero Section */}
         <section
           ref={containerRef}
-          className="relative min-h-[100svh] flex items-center justify-center overflow-hidden"
+          className="relative pt-16 md:pt-0 min-h-[102svh] md:min-h-[100svh] flex md:items-center justify-center overflow-hidden"
         >
           {/* Background elements */}
           <motion.div
@@ -60,7 +60,7 @@ const HomePage = () => {
             </FadeIn>
 
             {/* Name */}
-            <h1 className="font-serif px-10 text-5xl md:text-7xl lg:text-8xl font-medium text-foreground mb-6">
+            <h1 className="font-serif px-11 text-5xl md:text-7xl lg:text-8xl font-medium text-foreground mb-6">
               <AnimatedLetters text={profileData.name} delay={0.4} />
             </h1>
 
@@ -69,6 +69,7 @@ const HomePage = () => {
               <div className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8">
                 <span className="text-foreground">{profileData.role}</span>
                 <span className="mx-3 text-border">—</span>
+                <div className="block md:hidden"></div>
                 <motion.span
                   key={currentTextIndex}
                   className="text-primary"

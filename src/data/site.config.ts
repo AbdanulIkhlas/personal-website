@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "Klaz rawr",
-  title: "Alex Chen — Frontend Developer",
+  name: "Klaz",
+  title: "Klaz — Frontend Developer",
   description:
     "A personal digital space showcasing the work and thoughts of a frontend developer passionate about crafting beautiful, human-centered web experiences.",
   url: "https://alexchen.dev",

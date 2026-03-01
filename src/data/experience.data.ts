@@ -4,7 +4,7 @@ export interface Experience {
   company: string;
   companyUrl?: string;
   location: string;
-  type: "full-time" | "contract" | "freelance" | "founder";
+  type: "full-time" | "contract" | "freelance" | "co-founder";
   startDate: string;
   endDate: string | "Present";
   description: string;
@@ -46,7 +46,7 @@ export const experienceData: Experience[] = [
     company: "Stepup Project",
     companyUrl: "https://www.stepupproject.id/",
     location: "Sleman, Yogyakarta",
-    type: "founder",
+    type: "co-founder",
     startDate: "2024-01",
     endDate: "Present",
     description:

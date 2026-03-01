@@ -28,7 +28,7 @@ export const resumeData = {
       ],
     },
     {
-      title: "Frontend Developer",
+      title: "Co-Founder - Frontend Developer",
       company: "Stepup Project",
       location: "Sleman, Yogyakarta, Indonesia",
       period: "Jan 2024 — Present",

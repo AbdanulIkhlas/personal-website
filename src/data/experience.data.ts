@@ -18,7 +18,7 @@ export const experienceData: Experience[] = [
     title: "Programmer",
     company: "PT Farma Global Teknologi",
     companyUrl: "https://farmagitechs.co.id",
-    location: "Yogyakarta, Indonesia",
+    location: "Sleman, Yogyakarta",
     type: "full-time",
     startDate: "2025-03",
     endDate: "Present",
@@ -44,10 +44,11 @@ export const experienceData: Experience[] = [
     id: "frontend-stepup",
     title: "Frontend Developer",
     company: "Stepup Project",
+    companyUrl: "https://www.stepupproject.id/",
     location: "Sleman, Yogyakarta",
     type: "founder",
     startDate: "2024-01",
-    endDate: "2024-12",
+    endDate: "Present",
     description:
       "Developed high performance, responsive web applications using React.js for various client projects in a software house environment.",
     highlights: [
@@ -65,7 +66,7 @@ export const experienceData: Experience[] = [
     location: "Remote",
     type: "freelance",
     startDate: "2023-03",
-    endDate: "2024-04",
+    endDate: "2025-04",
     description:
       "Handled end to end frontend development for multiple web projects, focusing on responsive UI and clean component architecture.",
     highlights: [

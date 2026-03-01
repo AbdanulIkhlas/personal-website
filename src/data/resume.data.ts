@@ -17,7 +17,7 @@ export const resumeData = {
     {
       title: "Programmer",
       company: "PT Farma Global Teknologi",
-      location: "Yogyakarta, Indonesia",
+      location: "Sleman, Yogyakarta, Indonesia",
       period: "Mar 2025 — Present",
       highlights: [
         "Developed and maintained hospital electronic document system features using Vue.js and PHP",
@@ -31,7 +31,7 @@ export const resumeData = {
       title: "Frontend Developer",
       company: "Stepup Project",
       location: "Sleman, Yogyakarta, Indonesia",
-      period: "Jan 2024 — Dec 2024",
+      period: "Jan 2024 — Present",
       highlights: [
         "Developed responsive and high performance web interfaces using React.js",
         "Led technical implementation by defining code structure and development standards",
@@ -44,7 +44,7 @@ export const resumeData = {
       title: "Freelance Frontend Developer",
       company: "Freelance",
       location: "Remote",
-      period: "Mar 2023 — Apr 2024",
+      period: "Mar 2023 — Apr 2025",
       highlights: [
         "Handled end to end frontend development for multiple web projects",
         "Built responsive interfaces using React.js, Next.js, and PHP",

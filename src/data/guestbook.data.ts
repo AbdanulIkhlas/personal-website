@@ -14,7 +14,7 @@ export const guestbookData: GuestbookEntry[] = [
     message:
       "Sorry ya, masih dalam tahap pengembangan hehe",
     emoji: "💡",
-    createdAt: "2026-01-01T09:50:00Z",
+    createdAt: "2026-02-03T09:50:00Z",
     location: "Yogyakarta, ID",
   }
 ];
